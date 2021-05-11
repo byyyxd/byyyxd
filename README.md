@@ -1,8 +1,8 @@
-### Sup, I am wszz - C# | C++ Coder and owner of kawaiiware.xyz
+### Hewo I'm wszz.
 
 - 🎃 I'm currently working on memory hacking and c++.
 - 🧨 2021 Goals: Learn fully c++ and memory hacking.
-- 🎗 http://kawaiiware.xyz
+- 🎗 https://wszz.kawaiiware.xyz
 
 ### Contact me:
 
