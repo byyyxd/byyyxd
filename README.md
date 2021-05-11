@@ -1,4 +1,4 @@
-### Hewo I'm wszz.
+### Hewo oWo.
 
 - 🎃 I'm currently working on memory hacking and c++.
 - 🧨 2021 Goals: Learn fully c++ and memory hacking.
