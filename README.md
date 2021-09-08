@@ -1,11 +1,11 @@
-### Hewo oWo.
+### Aka wszz.
 
-- 🎃 I'm currently working on memory hacking and c++.
-- 🧨 2021 Goals: Learn fully c++ and memory hacking.
-- 🎗 https://wszz.kawaiiware.xyz
+- C++, C# coder.
+- :p
+- :p
 
 ### Contact me:
 
-- Discord: wszz#2022
+- Discord: wszz#1352
 
 <br />
