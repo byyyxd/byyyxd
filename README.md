@@ -6,6 +6,6 @@
 
 ### Contact me:
 
-- Discord: wszz#1999
+- Discord: wz#6969
 
 <br />
